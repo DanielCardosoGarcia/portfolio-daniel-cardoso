@@ -95,7 +95,7 @@ Para proporcionar uma visualização detalhada, o protótipo conta com uma pági
 
 Acesse o protótipo interativo completo diretamente no Figma através do link abaixo:
 
-🔗 **[Clique aqui para acessar o protótipo no Figma]((https://www.figma.com/make/vr0OJF9p1Ca7gVakoABM4s/Jewelry-Store-Homepage?code-node-id=0-6&p=f&t=hYkJAgd9I6cUFizL-0&fullscreen=1))**
+🔗 **[Clique aqui para acessar o protótipo no Figma](https://www.figma.com/make/vr0OJF9p1Ca7gVakoABM4s/Jewelry-Store-Homepage?code-node-id=0-6&p=f&t=hYkJAgd9I6cUFizL-0&fullscreen=1)**
 
 ---
 
