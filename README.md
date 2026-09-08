@@ -1,2 +1,9 @@
-# portfolio-daniel-cardoso
-Meu portfólio pessoal desenvolvido como projeto da Trilha Front-end | Design de Experiência.
+portfolio-daniel-cardoso/
+│
+├── README.md
+│
+└── imagens/
+    ├── home.png
+    ├── habilidades.png
+    ├── projetos.png
+    └── detalhes-projeto.png
