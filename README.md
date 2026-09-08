@@ -104,17 +104,16 @@ Acesse o protótipo interativo completo diretamente no Figma através do link ab
 Abaixo estão os registros visuais das principais telas desenvolvidas no protótipo:
 
 ### 🏠 Home / Apresentação
-![Home](imagens-portifólio/home.png)
+![Home](imagens/home.png)
 
 ### 🛠️ Habilidades
-![Habilidades](imagens-portifólio/habilidades.png)
+![Habilidades](imagens/habilidades.png)
 
 ### 🚀 Projetos
-![Projetos](imagens-portifólio/projetos.png)
+![Projetos](imagens/projetos.png)
 
 ### 📄 Detalhes do Projeto
 ![Detalhes do Projeto](imagens/detalhes-projeto.png)
-
 ---
 
 ## 📁 Estrutura do Repositório
